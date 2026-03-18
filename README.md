@@ -10,4 +10,4 @@ Questo corso è tenuto dal docente **Prof. Salvatore Alaimo**.
 Lo scopo di questa repository è di documentare e discutere il progetto effetuato al termine del corso.
 
 ## Descrizione del progetto 
-Il progetto consiste nell'implementazione di un database completo per la gestione di un torneo di calcio a 5. Questo sistema sarà progettato per gestire tutte le informazioni relative alle partite, inclusi i dettagli sui giocatori, le squadre, gli arbitri e gli stadi coinvolti. L'obiettivo principale è creare una soluzione integrata che semplifichi e ottimizzi la gestione del torneo, garantendo l'accesso a dati precisi e aggiornati in tempo reale
+Il progetto consiste nell'implementazione di un database completo per la gestione di un torneo di calcio a 5. Questo sistema sarà progettato per gestire tutte le informazioni relative alle partite, inclusi i dettagli sui giocatori, le squadre, gli arbitri e gli stadi coinvolti. L'obiettivo principale è creare una soluzione integrata che semplifichi e ottimizzi la gestione del torneo, garantendo l'accesso a dati precisi e aggiornati in tempo reale.
